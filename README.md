@@ -16,9 +16,13 @@ Current Functions:
 [+] Anti Inject texture
 
 [+] Anti Invisible 
+
 [+] Anti Speedhack
+
 [+] Anti Anti Ragdoll | Testing
+
 [+] Anti Mass Spawn Vehicles, Peds, Particles
+
 [+] Anti Props | With Whitelisted Props Config
 
 thats not all functions i will update regularly the anitcheat!!!!
