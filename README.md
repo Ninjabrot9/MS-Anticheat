@@ -1,13 +1,20 @@
 # MS-Anticheat
 A nice anticheat works with esx 
 
-Current Functions:                                               -
+Current Functions:  
+
 [+] MS Anti Resource Stop  | ARS
+
 [+] Blacklisted vehicle
+
 [+] Anti Vehicle Speed modifier
+
 [+] Anti Armor Cheat | With Maximal Armor Config
+
 [+] Anti Vision
+
 [+] Anti Inject texture
+
 [+] Anti Invisible 
 [+] Anti Speedhack
 [+] Anti Anti Ragdoll | Testing
